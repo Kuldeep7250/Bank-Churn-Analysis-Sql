@@ -1,8 +1,12 @@
-BANK CHURN ANALYSIS
+#BANK CHURN ANALYSIS
+
 Project Overview
+
 This project focuses on analyzing bank customer data to uncover insights into financial behavior, credit utilization, income patterns, and risk assessment. Instead of solely concentrating on churn prediction, the objective is to leverage data-driven insights to enhance banking operations, optimize customer engagement, and improve financial decision-making.
 Banks generate vast amounts of transactional and behavioral data, which, when analyzed effectively, can help refine customer segmentation, assess credit risk, detect potential fraud, and enhance financial product offerings. This project aims to transform raw banking data into actionable intelligence that drives stability, customer retention, and profitability.
+
 Key Areas of Analysis
+
 1. Customer Segmentation
 •	Categorizing customers based on age, income level, education, and credit behavior.
 •	Understanding spending habits and financial priorities across demographics.
