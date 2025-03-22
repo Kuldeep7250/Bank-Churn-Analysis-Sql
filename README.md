@@ -24,6 +24,7 @@ Key Areas of Analysis
 •	Developing re-engagement strategies to improve retention and prevent attrition.
 
 Business Impact & Strategic Benefits
+
 Enhanced Credit Risk Management → Early identification of high-risk customers reduces defaults.
 Personalized Banking Services → Premium and high-net-worth customers receive targeted financial products.
 Marketing Optimization → Banks can focus on high-potential customers for loans, credit cards, and investment products.
