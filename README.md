@@ -22,6 +22,7 @@ Key Areas of Analysis
 5. Dormant & High-Risk Accounts
 •	Detecting customers with low transaction activity and long inactive periods.
 •	Developing re-engagement strategies to improve retention and prevent attrition.
+
 Business Impact & Strategic Benefits
 Enhanced Credit Risk Management → Early identification of high-risk customers reduces defaults.
 Personalized Banking Services → Premium and high-net-worth customers receive targeted financial products.
